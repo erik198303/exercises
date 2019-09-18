@@ -14,6 +14,8 @@ namespace exercises
             int num2 = Convert.ToInt32(input2);
             int sum = num1 + num2;
             System.Console.WriteLine("Summan är {0}", sum);
+            
+
 
 
 
