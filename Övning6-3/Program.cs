@@ -8,7 +8,6 @@ namespace Övning6_3
         Kontrollera värdet (del 3)
 -	Arbeta vidare på övningen. 
 Gör så att om användaren matar in något annat än ”J”, ”j”, ”n”, ”N” så skriver programmet ut ”Jag förstår inte!”.
-        
          */
         static void Main(string[] args)
         {
@@ -18,7 +17,6 @@ Gör så att om användaren matar in något annat än ”J”, ”j”, ”n”,
             if(weather == "J" || weather == "j")
             {
                 System.Console.WriteLine("Vi går på picknick");
-
             }
             else if(weather == "N" || weather == "n" )
             {
